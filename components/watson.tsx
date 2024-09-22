@@ -35,7 +35,7 @@ export default function Watson({
     openChatByDefault: true,
     showLauncher: false,
     themeConfig: {
-      corners: "square",
+      corners: "round",
     },
     headerConfig: {
       hideMinimizeButton: true,
